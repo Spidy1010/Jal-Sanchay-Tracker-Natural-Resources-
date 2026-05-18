@@ -190,7 +190,7 @@ This project is intended for educational and development purposes.
 
 ## 👨‍💻 Author
 
-Developed by Arshid Ahmad Malik
+Developed by Velan 
 
 ---
 
